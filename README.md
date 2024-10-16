@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammedoussama</h1>
+<h1 align="center">Hi 👋, I'm Mohammed oussama</h1>
 <h3 align="center">A student in NIT from Algeria</h3>
 
 - 📫 How to reach me **oussmido1518@gmail.com**
